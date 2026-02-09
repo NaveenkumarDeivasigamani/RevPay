@@ -1,0 +1,19 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Compiled output
+bin/
+target/
+
+# Logs
+logs/
+*.log
+
+# Libraries
+lib/
+
+# Metadata
+.metadata/
+Servers/
