@@ -184,7 +184,7 @@ payment methods, invoices, loans, money requests, and notifications.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/RevPay.git
+git clone https://github.com/NaveenkumarDeivasigamani/RevPay.git
 ```
 
 ### 2️⃣ Import into Eclipse
